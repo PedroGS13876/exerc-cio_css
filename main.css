@@ -114,3 +114,11 @@ section h2 {
 #technology .articles article a {
     background-color: blueviolet;
 }
+
+#entertainment  {
+    background-color: cadetblue;
+}
+
+#entertainment .articles article a {
+    background-color: darkgrey;
+}
